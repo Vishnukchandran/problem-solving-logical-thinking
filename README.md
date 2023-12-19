@@ -1,13 +1,11 @@
-"# problem-solving-logical-thinking" 
+#**Problem Solving and Logical thinking Session**
 
-==>>Problem Solving and Logical thinking Session<<==
+##**Cook the code(CTC)**
 
->>Cook the code(CTC)<<
-
- 1.Framing the logic [try to get the logic of the given program]
- 2.Algorithm(Recipe) [try to write the down the steps]
- 3.Ingredients[Eg: Variables,looping statements,Conditional statement,Array,,etc]
- 4.Template code [Write the down temp code]
+ 1.Framing the logic ***[try to get the logic of the given program]***
+ 2.Algorithm(Recipe) ***[try to write the down the steps]***
+ 3.Ingredients ***[Eg: Variables,looping statements,Conditional statement,Array,,etc]***
+  4.Template code ***[Write the down temp code]***
 
 Example program with details,
 1.  Armstrong number
