@@ -2,13 +2,13 @@
 
 ## Cook the code(CTC)
 
- 1.Framing the logic ***[try to get the logic of the given program]***
+ 1. Framing the logic ***[try to get the logic of the given program]***
 
- 2.Algorithm(Recipe) ***[try to write the down the steps]***
+ 2. Algorithm(Recipe) ***[try to write the down the steps]***
 
- 3.Ingredients ***[Eg: Variables,looping statements,Conditional statement,Array,,etc]***
+ 3. Ingredients ***[Eg: Variables,looping statements,Conditional statement,Array,,etc]***
 
-  4.Template code ***[Write the down temp code]***
+  4. Template code ***[Write the down temp code]***
 
 *Example program with details,*
 1.  Armstrong number
@@ -26,16 +26,21 @@ Find whether the 153 is a Armstrong number
 *Separating the digits from the number*
 
 Step 1: *(First split)*
+```
 153%10 = 3 
 153/10 = 15
-
+```
 Step 2: *(Second split)*
+
+```
 15%10 = 5
 15/10 = 1
-
+```
 Step 3: *(Final split)*
+```
 1%10 = 1
 1/10 = 0 ---> Stop the process
+```
 
 ***Logic derivation from above steps,***
 
@@ -75,4 +80,4 @@ input / 10
 
     Step 3: var count
 
-    Step 4: if(input == derived result),else
+    Step 4: if(input == derived result),else(statement)
