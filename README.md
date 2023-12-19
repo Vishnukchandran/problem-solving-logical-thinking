@@ -8,7 +8,7 @@
 
  3. Ingredients ***[Eg: Variables,looping statements,Conditional statement,Array,,etc]***
 
-  4. Template code ***[Write the down temp code]***
+  4. Template code ***[Write the down temp code in words]***
 
 *Example program with details,*
 1.  Armstrong number
@@ -27,19 +27,19 @@ Find whether the 153 is a Armstrong number
 
 Step 1: *(First split)*
 ```
-153%10 = 3 
-153/10 = 15
+153 % 10 = 3 
+153 / 10 = 15
 ```
 Step 2: *(Second split)*
 
 ```
-15%10 = 5
-15/10 = 1
+15 % 10 = 5
+15 / 10 = 1
 ```
 Step 3: *(Final split)*
 ```
-1%10 = 1
-1/10 = 0 ---> Stop the process
+1 % 10 = 1
+1 / 10 = 0 ---> Stop the process
 ```
 
 ***Logic derivation from above steps,***
